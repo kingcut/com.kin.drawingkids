@@ -1,0 +1,88 @@
+{
+  "flag": "1",
+  "category": [
+    {
+      "id": "category1",
+      "name": "Animal",
+      "color":"e2e2e2",
+      "url": "https://cdn.pixabay.com/photo/2018/03/14/05/42/monkey-3224416_640.png",
+      "images": [
+          {
+            "id":"animal_xcolor1",
+            "url": "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor1.png"
+          },
+          {
+            "id":"animal_xcolor2",
+            "url": "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor2.png"
+          },
+          {
+            "id":"animal_xcolor3",
+            "url": "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor3.png"
+          },
+          {
+            "id":"animal_xcolor4",
+            "url": "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor4.png"
+          }
+          
+        ]
+    },
+    {
+      "id": "category2",
+      "name": "Car",
+      "color":"8e8e8e",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Man_Driving_Car_Cartoon_Vector.svg/512px-Man_Driving_Car_Cartoon_Vector.svg.png",
+      "images": [
+          {
+            "id":"animal_xcolor5",
+            "url": "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor5.png"
+          },
+          {
+            "id":"animal_xcolor6",
+            "url": "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor6.png"
+          },
+          {
+            "id":"animal_xcolor7",
+            "url": "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor7.png"
+          },
+          {
+            "id":"animal_xcolor8",
+            "url": "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor8.png"
+          },
+          {
+            "id":"animal_xcolor9",
+            "url": "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor9.png"
+          }
+          
+        ]
+    },
+    {
+      "id": "category3",
+      "name": "Baby",
+      "color":"91ffec",
+      "url": "http://www.sclance.com/pngs/cartoon-baby-png/cartoon_baby_png_223831.png",
+      "images": [
+          {
+            "id":"animal_xcolor10",
+            "url": "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor10.png"
+          },
+          {
+            "id":"animal_xcolor11",
+            "url": "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor11.png"
+          },
+          {
+            "id":"animal_xcolor12",
+            "url": "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor12.png"
+          },
+          {
+            "id":"animal_xcolor13",
+            "url": "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor13.png"
+          },
+          {
+            "id":"animal_xcolor14",
+            "url": "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor14.png"
+          }
+          
+        ]
+    }
+  ]
+}
