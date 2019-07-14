@@ -1,10 +1,10 @@
 {
   "flag": "1",
-  "category": [
+  "categories": [
     {
       "id": "category1",
       "name": "Animal",
-      "color":"e2e2e2",
+      "color":"#e2e2e2",
       "url": "https://cdn.pixabay.com/photo/2018/03/14/05/42/monkey-3224416_640.png",
       "images": [
           {
@@ -29,7 +29,7 @@
     {
       "id": "category2",
       "name": "Car",
-      "color":"8e8e8e",
+      "color":"#8e8e8e",
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Man_Driving_Car_Cartoon_Vector.svg/512px-Man_Driving_Car_Cartoon_Vector.svg.png",
       "images": [
           {
@@ -58,7 +58,7 @@
     {
       "id": "category3",
       "name": "Baby",
-      "color":"91ffec",
+      "color":"#91ffec",
       "url": "http://www.sclance.com/pngs/cartoon-baby-png/cartoon_baby_png_223831.png",
       "images": [
           {
