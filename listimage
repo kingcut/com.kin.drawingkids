@@ -1007,43 +1007,8 @@
           "id": "princess_19",
           "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/images/princess/princess_19.png",
           "isPrivate": true
-        },
-        {
-          "id": "princess_20",
-          "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/images/princess/princess_20.png",
-          "isPrivate": true
-        },
-        {
-          "id": "princess_21",
-          "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/images/princess/princess_21.png",
-          "isPrivate": true
-        },
-        {
-          "id": "princess_22",
-          "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/images/princess/princess_22.png",
-          "isPrivate": true
-        },
-        {
-          "id": "princess_23",
-          "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/images/princess/princess_23.png",
-          "isPrivate": true
-        },
-        {
-          "id": "princess_24",
-          "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/images/princess/princess_24.png",
-          "isPrivate": true
-        },
-        {
-          "id": "princess_25",
-          "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/images/princess/princess_25.png",
-          "isPrivate": true
-        },
-        {
-          "id": "princess_26",
-          "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/images/princess/princess_26.png",
-          "isPrivate": true
         }
-      ],
+	],
       "name": "Princess",
       "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/category/category_princess.jpg",
       "color": "#ffffff"
