@@ -166,7 +166,7 @@
         }
       ],
       "name": "Animal",
-      "url": "",
+      "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/category/category_animal.jpg",
       "color": "#ffffff"
     },
     {
@@ -355,7 +355,7 @@
         }
       ],
       "name": "Christmas",
-      "url": "http://officinadellelingue.it/eng/wp-content/uploads/2015/12/translation-translator-translationservice-italy-milan-officina-delle-lingue-23.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/category/category_christmas.jpg",
       "color": "#ffffff"
     },
     {
@@ -579,7 +579,7 @@
         }
       ],
       "name": "Family",
-      "url": "https://image.freepik.com/free-vector/family-travel-car_23-2147537362.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/category/category_family.jpg",
       "color": "#ffffff"
     },
     {
@@ -693,7 +693,7 @@
         }
       ],
       "name": "Flower",
-      "url": "https://www.iconspng.com/images/cartoon-hillside-with-butterfly-and-flowers/cartoon-hillside-with-butterfly-and-flowers.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/category/category_flower.jpg",
       "color": "#ffffff"
     },
     {
@@ -832,7 +832,7 @@
         }
       ],
       "name": "Fruit",
-      "url": "https://image.freepik.com/free-vector/fruits-stickers_23-2147510219.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/category/category_fruit.jpg",
       "color": "#ffffff"
     },
     {
@@ -906,7 +906,7 @@
         }
       ],
       "name": "Landscape",
-      "url": "https://image.freepik.com/free-vector/background-scene-with-green-lawn_1308-5315.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/category/category_landscape.jpg",
       "color": "#ffffff"
     },
     {
@@ -1045,7 +1045,7 @@
         }
       ],
       "name": "Princess",
-      "url": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/71/e5/56/71e55603-af8a-7f63-be18-8c1bca4a7cd4/AppIcon-1x_U007emarketing-85-220-6.png/246x0w.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/category/category_princess.jpg",
       "color": "#ffffff"
     },
     {
@@ -1109,7 +1109,7 @@
         }
       ],
       "name": "Toy",
-      "url": "https://cdn2.shopify.com/s/files/1/0065/4917/6438/products/a-girl-painting-a-landscape-and-inside-a-toy-store-background_740x.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/category/category_toy.jpg",
       "color": "#ffffff"
     },
     {
@@ -1183,7 +1183,7 @@
         }
       ],
       "name": "Transport",
-      "url": "https://www.wallsauce.com/uploads/wallsauce-com/images/products/web/fotolia/large/44408480funny-vehicles-the-city-cartoon-vector-illustration.jpg",
+      "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/category/category_transport.jpg",
       "color": "#ffffff"
     }
   ],
