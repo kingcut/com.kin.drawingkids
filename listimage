@@ -910,7 +910,7 @@
       "color": "#ffffff"
     },
     {
-      "isPrivate": true,
+      "isPrivate": false,
       "id": "princess",
       "images": [
         {
@@ -946,12 +946,12 @@
         {
           "id": "princess_7",
           "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/images/princess/princess_7.png",
-          "isPrivate": true
+          "isPrivate": false
         },
         {
           "id": "princess_8",
           "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/images/princess/princess_8.png",
-          "isPrivate": true
+          "isPrivate": false
         },
         {
           "id": "princess_9",
@@ -1006,7 +1006,7 @@
         {
           "id": "princess_19",
           "url": "https://raw.githubusercontent.com/kingcut/com.kin.drawingkids/master/images/princess/princess_19.png",
-          "isPrivate": true
+          "isPrivate": false
         }
 	],
       "name": "Princess",
@@ -1152,5 +1152,5 @@
       "color": "#ffffff"
     }
   ],
-  "flag": true
+  "flag": false
 }
